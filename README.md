@@ -6,3 +6,4 @@
 2. navigate to the folder: `cd thymeleaf-layout-sample`
 3. Run the application: `mvn clean spring-boot:run`
 4. Open your favorite browser: http://localhost:8080
+
