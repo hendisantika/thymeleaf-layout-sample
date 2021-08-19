@@ -7,3 +7,16 @@
 3. Run the application: `mvn clean spring-boot:run`
 4. Open your favorite browser: http://localhost:8080
 
+### Images Screenshot
+
+Home Page
+
+![Home Page](img/home.png "Home Page")
+
+Contact Page
+
+![Contact Page](img/contact.png "Contact Page")
+
+About Page
+
+![About Page](img/about.png "About Page")
